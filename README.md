@@ -1,5 +1,5 @@
 # Python autotests
-Пример автотестов на pytest + requests
+Пример автотестов на pytest + requests (тестировние бекенда в части API)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/8UGGp7rQvfhe63HrFq/giphy.gif" width="300"/>
@@ -11,7 +11,7 @@
     - Смена имени покемона (**PUT /pokemons**)
     - Поймать покемона в покебол (**POST /trainers/add_pokeball**)
 
-<h3> Написаны два Автотеста, используя PyTest, которые проверяют: </h3>
+<h3> Написаны два Автотеста, используя PyTest, которые проверяют: </h3> 
 
     - что ответ запрос **GET /trainers** приходит с кодом 200
     - что в ответе приходит строчка с именем моего тренера
