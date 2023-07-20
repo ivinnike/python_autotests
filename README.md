@@ -1,6 +1,5 @@
 # Python autotests
-Пример автотестов на pytest + requests (тестировние бекенда в части API)
-
+Пример автотестов на pytest + requests
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/8UGGp7rQvfhe63HrFq/giphy.gif" width="300"/>
 </div>
